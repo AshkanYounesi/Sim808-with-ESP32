@@ -83,23 +83,6 @@ GenerateClassCluster=0
 DocumentUniqueId=PPCMMKUJ
 
 [Document3]
-DocumentPath=PCB1.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HOSKXQDQ
-
-[Document4]
 DocumentPath=Sim808-with-ESP32.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
